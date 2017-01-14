@@ -40,6 +40,7 @@ brew 'tmux'
 brew 'unrar'
 brew 'wget'
 brew 'yarn'
+brew 'zsh-completions'
 
 cask '1password'
 cask 'alfred'
