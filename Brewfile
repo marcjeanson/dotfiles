@@ -1,14 +1,15 @@
 cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
+tap 'd12frosted/emacs-plus'
 
 brew 'ack'
 brew 'autojump'
 brew 'chruby'
 brew 'coreutils'
 brew 'direnv'
-brew 'emacs-plus'
 brew 'elixir'
+brew 'emacs-plus'
 brew 'erlang'
 brew 'git-extras'
 brew 'grc'
